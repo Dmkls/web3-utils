@@ -1,0 +1,14 @@
+[
+    {
+        "address": "wallet_address_1",
+        "privateKey": "private_key_1"
+    },
+    {
+        "address": "wallet_address_2",
+        "privateKey": "private_key_2"
+    },
+    {
+        "address": "wallet_address_3",
+        "privateKey": "private_key_3"
+    }
+]
